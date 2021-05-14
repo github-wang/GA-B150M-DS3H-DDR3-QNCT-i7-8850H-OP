@@ -11,3 +11,4 @@
 + opencore设备属性，pci设备列表，添加所有pci设备，设置PciRoot(0x0)/Pci(0x2,0x0)  AAPL,ig-platform-id设为07009B3E	用于驱动显示屏时桌面iGPU，核显驱动显示；
 AAPL,ig-platform-id设为0300913E	当桌面iGPU仅用于计算任务，不作为驱动显示屏时使用，可VideoProc 4K解码完全成功
 
+![image](https://github.com/github-wang/GA-B150M-DS3H-DDR3-QNCT-i7-8850H-OP/blob/main/RX560%E6%98%BE%E7%A4%BA%EF%BC%8CUHD630%E5%8A%A0%E9%80%9F.png)
